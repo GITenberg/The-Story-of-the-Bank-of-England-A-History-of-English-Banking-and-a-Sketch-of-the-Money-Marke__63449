@@ -1,5 +1,8 @@
 _repo: The-Story-of-the-Bank-of-England-A-History-of-English-Banking-and-a-Sketch-of-the-Money-Marke__63449
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63449-h/images/cover.jpg
 creator:
   author:
     agent_name: Warren, Henry White
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6306
     wikipedia: https://en.wikipedia.org/wiki/Henry_White_Warren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63449#The-Story-of-the-Bank-of-England-A-History-of-English-Banking-and-a-Sketch-of-the-Money-Marke_
 gutenberg_issued: '2020-10-13'
 gutenberg_type: Text
 identifiers:
